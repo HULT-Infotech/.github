@@ -1,6 +1,8 @@
 # 🚀 Hult - Innovate Boundlessly
 
-![Hult Banner](https://via.placeholder.com/1200x300?text=Hult+-+Innovate+Boundlessly)
+<p align="center">
+  <img src="https://via.placeholder.com/400x200?text=HULT+LOGO" alt="Hult Logo" width="400"/>
+</p>
 
 Welcome to the official repository of Hult, where we push the boundaries of innovation in web development, big data, and design. Our passion for technology drives us to create solutions that transform businesses and empower individuals.
 
@@ -21,13 +23,6 @@ Our mission is to harness the power of technology to turn your boldest ideas int
 
 ### Web Development
 Full-stack development using MERN (MongoDB, Express.js, React, Node.js) technology
-```mermaid
-graph LR
-    A[MongoDB] --> B[Express.js]
-    B --> C[React]
-    C --> D[Node.js]
-    D --> A
-```
 
 ### Data Science and Machine Learning
 - 📈 Big data analytics
