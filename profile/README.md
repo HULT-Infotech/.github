@@ -1,10 +1,10 @@
 <!-- # 🚀 Hult - Innovate Boundlessly -->
 
 <p align="center">
-  <img src="https://hultinfo.tech/HULT-1.png" alt="Hult Logo" width="200"/>
+  <img src="https://hultinfo.tech/HULT-1.png" alt="Hult Logo" width="340"/>
 </p>
 
-Welcome to the official repository of Hult, where we push the boundaries of innovation in web development, big data, and design. Our passion for technology drives us to create solutions that transform businesses and empower individuals.
+Welcome to the official repository of **Hult Info Tech - Innovate Boundlessly**, where we push the boundaries of innovation in web development, big data, and design. Our passion for technology drives us to create solutions that transform businesses and empower individuals.
 
 [![GitHub stars](https://img.shields.io/github/stars/hult/hult-repo.svg?style=social&label=Star)](https://github.com/hult/hult-repo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hultinfo.svg?style=social)](https://twitter.com/hultinfo)
