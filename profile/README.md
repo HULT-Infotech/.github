@@ -1,7 +1,7 @@
 # 🚀 Hult - Innovate Boundlessly
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x200?text=HULT+LOGO" alt="Hult Logo" width="400"/>
+  <img src="https://hultinfo.tech/HULT-1.png" alt="Hult Logo" width="200"/>
 </p>
 
 Welcome to the official repository of Hult, where we push the boundaries of innovation in web development, big data, and design. Our passion for technology drives us to create solutions that transform businesses and empower individuals.
