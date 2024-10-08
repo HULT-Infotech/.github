@@ -1,4 +1,4 @@
-# 🚀 Hult - Innovate Boundlessly
+<!-- # 🚀 Hult - Innovate Boundlessly -->
 
 <p align="center">
   <img src="https://hultinfo.tech/HULT-1.png" alt="Hult Logo" width="200"/>
