@@ -57,5 +57,5 @@ Stay updated with our latest innovations and projects:
 
 [MIT License](LICENSE)
 
-Copyright (c) [year] Hult
+Copyright (c) [2024] Hult
 
