@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://hultinfo.tech/HULT-1.png" alt="Hult Logo" width="340"/>
+  <img width="378" height="108" alt="HULT-1" src="https://github.com/user-attachments/assets/47cf971b-c8e0-4831-bd01-f859d9a8495b" />
+
 </p>
 
 # Hult Info Tech - Innovate Boundlessly
