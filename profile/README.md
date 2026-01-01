@@ -1,11 +1,12 @@
 <p align="center">
-  <img width="378" height="108" alt="HULT-1" src="https://github.com/user-attachments/assets/47cf971b-c8e0-4831-bd01-f859d9a8495b" />
+  <img width="500" height="494" alt="hult-white" src="https://github.com/user-attachments/assets/9123127e-88dd-40a8-ac8e-71ab7535f3f2" />
+
 
 </p>
 
-# Hult Info Tech - Innovate Boundlessly
+# Hult Info Tech - Build Bold.
 
-Hult Info Tech is a leading innovator in web development, data science, and design. We transform businesses through cutting-edge technology solutions.
+Hult Corp is a leading innovator in web development, data science, and design. We transform businesses through cutting-edge technology solutions.
 
 ## Our Services
 
@@ -20,7 +21,7 @@ MERN Stack, Machine Learning Frameworks, Advanced Design Tools
 
 ## Get Started
 
-1. Visit [hultinfo.tech](https://hultinfo.tech/)
+1. Visit [hultcorp.com](https://hultcorp.com/)
 2. Explore our repositories
 3. Contact us for collaborations
 
@@ -31,8 +32,8 @@ MERN Stack, Machine Learning Frameworks, Advanced Design Tools
 
 ## Contact
 
-Email: [support@hultinfo.tech](mailto:support@hultinfo.tech)
+Email: [support@hultinfo.tech](mailto:info@hultcorp.com)
 
 ---
 
-<p align="center">© 2024 Hult Info Tech | MIT License</p>
+<p align="center">© 2024 Hult Corp | MIT License</p>
