@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="494" alt="hult-white" src="https://github.com/user-attachments/assets/9123127e-88dd-40a8-ac8e-71ab7535f3f2" />
+  <img width="250" height="247" alt="hult-white" src="https://github.com/user-attachments/assets/9123127e-88dd-40a8-ac8e-71ab7535f3f2" />
 
 
 </p>
