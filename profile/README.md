@@ -36,4 +36,4 @@ Email: [support@hultinfo.tech](mailto:info@hultcorp.com)
 
 ---
 
-<p align="center">© 2024 Hult Corp | MIT License</p>
+<p align="center">© 2025 Hult Corp | MIT License</p>
